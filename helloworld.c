@@ -10,6 +10,8 @@ int main(){
                                                  // Similar to how a period is used in sentences.
     printf("But I am in the Twillight\n"); // newline character is the same.
 
+    int x = 10;
+
     return 0; // Adding this to end the function.
               // We need to return something
               // In this case, 0.
