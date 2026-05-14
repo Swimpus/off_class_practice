@@ -12,6 +12,8 @@ int main(){
 
     int x = 10;
 
+    printf("Your feelings and mine are all holy\n");
+
     return 0; // Adding this to end the function.
               // We need to return something
               // In this case, 0.
